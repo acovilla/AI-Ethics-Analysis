@@ -1,5 +1,4 @@
 # AI-Ethics-Analysis
+This study was carried out under the supervision of Dr. Anastasia Griva and presented as the Master's Degree in Business Analytics dissertation.
+
 Topic Modelling and Sentiment Analysis of AI ethics in ChatGPT conversations
-•	Used Crisp-DM framework and developed a Python script using Pandas, Numpy, Gensim, and NLKT to generate a sentiment analysis, and topic modelling (Latent Dirichlet Allocation method) on a Twitter dataset that contained ChatGPT mentions.
-•	Developed a Python script using Seaborn, Geopy, and Geotext to make a descriptive analysis of demographic and sentiment data.
-Grade: 1st class honours. 
